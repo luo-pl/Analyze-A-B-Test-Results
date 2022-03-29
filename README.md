@@ -31,16 +31,14 @@ It is believed that the secret to getting value from data is testing, and if one
 
 File Descriptions <a name="files"></a>
 ------------
-* The original datasets are available here for your quick download. You can also get access to my notebook Analyze A/B Test Results.ipynb to review the actual code. The notebook is exploratory in searching through the data pertaining to the questions in the introduction. Markdown cells will assist in walking through the thought process for each step.
+The original datasets are available here for your quick download. You can also get access to my notebook Analyze A/B Test Results.ipynb to review the actual code. The notebook is exploratory in searching through the data pertaining to the questions in the introduction. Markdown cells will assist in walking through the thought process for each step.
 
 Approaches <a name="approaches"></a>
 ------------
-Within the framework of this project, three main statistical methods are used for the following purposes:
+Within the framework of this project, three main statistical methods are used:
 
-### Probability
+- Probability
+- Hypothesis testing
+- Regression models
 
-### Hypothesis testing
-
-### Regression models
-
-(Read more in my notebook).
+(Read detailed analyses in my notebook).
